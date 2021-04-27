@@ -20,7 +20,7 @@
                  "description": "The dest storage account name."
              }
          },
-         "srccontainerName": {
+         "destcontainerName": {
              "type": "string",
              "metadata": {
                  "description": "The container name to use in the dest accounts."
